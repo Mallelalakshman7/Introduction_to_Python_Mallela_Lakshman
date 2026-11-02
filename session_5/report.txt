@@ -1,0 +1,14 @@
+Words: 14
+Unique words: 12
+analytics      1
+and            2
+computer       1
+data           1
+engineering    2
+epita          1
+lakshman       1
+mallela        1
+of             1
+school         1
+science        1
+scinece        1
